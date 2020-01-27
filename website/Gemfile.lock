@@ -141,7 +141,7 @@ GEM
       rack (~> 1.4)
     rack-livereload (0.3.16)
       rack
-    rack-protection (1.5.3)
+    rack-protection (1.5.5)
       rack
     rack-rewrite (1.5.1)
     rack-ssl-enforcer (0.2.9)
